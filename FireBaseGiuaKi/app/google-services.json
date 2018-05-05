@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "343085910816",
+    "firebase_url": "https://fir-giuaki.firebaseio.com",
+    "project_id": "fir-giuaki",
+    "storage_bucket": "fir-giuaki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343085910816:android:7749673b6dee1b2d",
+        "android_client_info": {
+          "package_name": "com.example.duytruong.firebasegiuaki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343085910816-j6tk6kq554occ34g1utff4oiga0ouuro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwaulWDItkALDJHutAg-SZ7_bybOr7E7k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
